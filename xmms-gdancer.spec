@@ -1,7 +1,7 @@
 %define name xmms-gdancer
 %define oname gdancer
 %define version 0.4.6
-%define release 4mdk
+%define release %mkrel 4
 
 Name:		%{name}
 Summary:	GDancer - The Dancing Space Ghost XMMS plugin
