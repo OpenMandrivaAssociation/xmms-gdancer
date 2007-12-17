@@ -12,7 +12,6 @@ Group:		Sound
 URL:		http://www.figz.com/gdancer/
 Source:		%{oname}-%{version}.tar.bz2
 Buildrequires:	xmms1-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 GDancer is a cute little plugin for XMMS that allows for a character to
