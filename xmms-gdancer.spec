@@ -11,7 +11,7 @@ License:	GPL
 Group:		Sound
 URL:		http://www.figz.com/gdancer/
 Source:		%{oname}-%{version}.tar.bz2
-Buildrequires:	xmms1-devel
+Buildrequires:	xmms-devel
 
 %description
 GDancer is a cute little plugin for XMMS that allows for a character to
