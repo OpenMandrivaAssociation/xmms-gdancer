@@ -10,7 +10,7 @@ Release:	%{release}
 License:	GPL
 Group:		Sound
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-URL:		http://www.figz.com/gdancer/
+URL:		https://www.figz.com/gdancer/
 Source:		%{oname}-%{version}.tar.bz2
 Buildrequires:	xmms-devel
 
